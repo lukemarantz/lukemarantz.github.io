@@ -1,6 +1,6 @@
-# Handouts for Luke Marantz's Music Classes at 92NY
+## Handouts for Luke Marantz's Music Classes at 92NY
 
-## Week 1
+### Week 1
 
 [Three Elements](https://github.com/lukemarantz/lukemarantz.github.io/blob/df6c80e88c5a6ab8a505ed297d7c4d5e26185c5c/Elements-of-Music.pdf)
 
@@ -10,5 +10,5 @@
 
 <img src="./elements-raw_thumb.png" width="100">
 
-## Week 2
+### Week 2
 ...
