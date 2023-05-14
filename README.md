@@ -1,4 +1,4 @@
-# Handouts for Luke's Music Classes at 92NY
+# Handouts for Luke Marantz's Music Classes at 92NY
 
 ## Week 1
 
